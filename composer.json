@@ -2,7 +2,7 @@
     "name": "Picmonic/infusionsoft-isdk",
     "description": "The Official Infusionsoft API PHP SDK",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
-    "version": "1.9.1",
+    "version": "1.9.2",
     "license": "MIT",
     "homepage": "https://developer.infusionsoft.com",
     "authors": [
